@@ -1,6 +1,3 @@
-👋 Hi, I’m @ruivieira
+👋 Hi, I’m @ruivieira.
 
-<!---
-ruivieira/ruivieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Social media: `finger rui@plan.cat`
